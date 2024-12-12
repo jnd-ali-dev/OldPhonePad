@@ -4,7 +4,7 @@ using System.Text;
 
 namespace OldPhonePadProject
 {
-    class Program
+    public class Program
     {
         public static Dictionary<char, char[]> keypadLayout = new Dictionary<char, char[]>
         {

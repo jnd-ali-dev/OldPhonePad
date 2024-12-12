@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.1433
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OldPhonePadProject", "OldPhonePadProject\OldPhonePadProject.csproj", "{4E768EE5-FED3-437A-B910-3252D8C19937}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{98C80D68-3FCE-4FDB-8E89-30F552F4DF83}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4E768EE5-FED3-437A-B910-3252D8C19937}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E768EE5-FED3-437A-B910-3252D8C19937}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E768EE5-FED3-437A-B910-3252D8C19937}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98C80D68-3FCE-4FDB-8E89-30F552F4DF83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98C80D68-3FCE-4FDB-8E89-30F552F4DF83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98C80D68-3FCE-4FDB-8E89-30F552F4DF83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98C80D68-3FCE-4FDB-8E89-30F552F4DF83}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
